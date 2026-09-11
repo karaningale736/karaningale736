@@ -27,9 +27,9 @@ I focus on building AI-powered applications, working with Large Language Models 
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=karaningale736&show_icons=true&theme=dark" alt="Karan's GitHub Stats" width="48%" />
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaningale736&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
