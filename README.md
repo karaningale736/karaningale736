@@ -1,38 +1,60 @@
-# 👋 Hi, I'm Karan Ingale
+<h1 align="center">Hi, I'm Karan Ingale 👋</h1>
 
-### 🚀 Aspiring Software Engineer | AI & GenAI Specialist
-I focus on building AI-powered applications, working with Large Language Models (LLMs), and architecting cloud-native solutions with Python and AWS.
+<p align="center">
+  <b>Aspiring Software Engineer &nbsp;•&nbsp; AI & GenAI Specialist &nbsp;•&nbsp; Backend Developer</b>
+</p>
+
+<p align="center">
+  Building intelligent systems with Large Language Models, cloud-native backend workflows, and scalable architectures.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/YOUR_TWITTER_HANDLE">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack & Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055E5?style=for-the-badge&logo=json&logoColor=white)
-
----
-
-### ⚡ What I'm Working On
-- 🤖 Building AI chatbots and CRM assistants using LLMs.
-- ☁️ Deploying scalable machine learning workflows on AWS.
-- 🧪 Fine-tuning open-source GenAI models for real-world enterprise applications.
-
----
-
-### 📊 GitHub Stats
+### 💻 Technologies & Frameworks
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=karaningale736&show_icons=true&theme=dark" alt="Karan's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karaningale736&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ---
 
-### 📫 Connect with Me
-- 💼 **LinkedIn:** [Add Your LinkedIn URL Here](https://linkedin.com)
-- 🌐 **Portfolio:** [Add Your Portfolio URL Here](https://github.com/karaningale736)
-- 📧 **Email:** [Add Your Email Here](mailto:example@email.com)
+### 🚀 Core Focus Areas
+
+* 🤖 **Generative AI & LLMs:** Building enterprise context-aware assistants, RAG pipelines, and agentic workflows.
+* ☁️ **Cloud Architecture:** Designing and deploying scalable machine learning endpoints on AWS infrastructure.
+* ⚡ **Backend Engineering:** Developing high-throughput REST APIs and data processing pipelines using Python and Docker.
+
+---
+
+### 📈 GitHub Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karaningale736&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Transforming complex AI research into production-ready software solutions."</i>
+</p>
